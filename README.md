@@ -5,3 +5,10 @@
 5:Код программы можно посмотреть с помощью программы idle python(https://www.python.org/downloads. Вам нужно перейти по ссылке и нажать на большую желтую кнопку: Download Python 3.12.2. Автоматически наячнется скачивание файла, при запуске которого у Вас скачается idle python. Далее нужно нажать на скачанный файл (программу, а не программу для скачивания), выбрать:  file, затем: open (выберите файл, который Вы скачали из этого репозитория).
 6:Игра является консольным приложением.
 ![image](https://github.com/denialeksbf1231/Field-of-Dreams/assets/156435099/5e937742-726e-44a7-abd7-5656d6fa961b)
+ENG:
+1:This repository contains the program that makes the "Field of Wonders" game work.
+2:The point of the game is that you are asked a Russian word on the theme of sea, water. Your task is to enter the letters of the word or the word completely. If you fully entered the word and did not guess, you immediately lose. All words start with a small letter, they are only in the singular, they do not have dashes and other signs. If you enter a letter that is not in the word, the asterisks in the word do not change. If you enter a letter that is in the word, the asterisks change into those letters. 
+3:In life, the game exists in a Russian version called "Field of Miracles", airing on Channel One. It was inspired by the American game "Wheel of Fortune". It is also known to many as a children's game "Hangman". In this game, when a letter is guessed incorrectly, parts of the "gallows" are drawn, on which a person is executed (one letter - one part of the gallows). 
+4:The program is written in the Python programming language. 
+5:The program code can be viewed using the idle python program(https://www.python.org/downloads. You need to follow the link and click on the big yellow button: Download Python 3.12.2. The file will automatically start downloading and idle python will be downloaded. Next, click on the downloaded file (program, not download program), select: file, then: open (select the file you downloaded from this repository). 
+6:The game is a console application.
